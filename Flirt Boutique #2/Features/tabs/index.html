@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flirt Boutique</title>
+    <link rel="icon" href="../../images/FB.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <a href="index.html"
+        ><img id="logo" src="../../images/FB.png" alt=""
+      /></a>
+      <div class="search-bar">
+        <select name="Filter" id="filter">
+          <option value="">All</option>
+        </select>
+        <input id="fill" type="search" />
+        <button id="search-btn">
+          <img src="../../images/search.png" alt="Search" />
+        </button>
+      </div>
+      <button id="sign-in-button">Sign In</button>
+      <select name="Currency" id="lang-bar">
+        <option value="JMD">JMD</option>
+        <option value="USD">USD</option>
+        <option value="EUR">EUR</option>
+      </select>
+      <button id="orders">Orders</button>
+      <a href=""></a>
+      <div class="cart">
+        <span id="amount">0</span>
+        <button id="shop">
+          <img src="../../images/Cart.png" alt="Cart" />
+        </button>
+      </div>
+    </nav>
+    <nav id="links">
+      <button id="menu">
+        <img src="../../images/Menu.png" alt="Menu" />All
+      </button>
+      <button>Today's Deals</button>
+      <button>HOT!</button>
+    </nav>
+    <div class="sidebar-div">
+      <aside class="sidebar">Sidebar<button id="close">X</button></aside>
+    </div>
+    <div class="hero">
+      <h1 id="Welcome">Welcome To Flirt Boutique</h1>
+      <h2 id="Greet">Capture Creative Designs</h2>
+    </div>
+    <div class="products"></div>
+    <div id="billboard"></div>
+  </body>
+</html>
