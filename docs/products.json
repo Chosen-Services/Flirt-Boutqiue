@@ -5,28 +5,28 @@
         {
           "id": 1,
           "Title": "Blue Hoodie",
-          "Image": "../../images/product-images/Hoodies/Blue-Hoodie.jpg",
+          "Image": "../images/product-images/Hoodies/Blue-Hoodie.jpg",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 2,
           "Title": "White Hoodie",
-          "Image": "../../images/product-images/Hoodies/White-Hoodie.jpg",
+          "Image": "../images/product-images/Hoodies/White-Hoodie.jpg",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 3,
           "Title": "asa",
-          "Image": "../../images/FB.png",
+          "Image": "../images/FB.png",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 4,
           "Title": "Hed23y",
-          "Image": "../../images/FB.png",
+          "Image": "../images/FB.png",
           "Description": "Desc",
           "Price": "$1"
         }
@@ -35,28 +35,28 @@
         {
           "id": 1,
           "Title": "Red Shoes",
-          "Image": "../../images/product-images/Shoes/Red-Shoes.png",
+          "Image": "../images/product-images/Shoes/Red-Shoes.png",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 2,
           "Title": "White Hoodie",
-          "Image": "../../images/product-images/Shoes/Yellow-Shoes.png",
+          "Image": "../images/product-images/Shoes/Yellow-Shoes.png",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 3,
           "Title": "asa",
-          "Image": "../../images/product-images/Shoes/White-Heels.png",
+          "Image": "../images/product-images/Shoes/White-Heels.png",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 4,
           "Title": "Hed23y",
-          "Image": "../../images/FB.png",
+          "Image": "../images/FB.png",
           "Description": "Desc",
           "Price": "$1"
         }
@@ -65,28 +65,28 @@
         {
           "id": 1,
           "Title": "All In One Dress Set",
-          "Image": "../../images/product-images/Clothing Sets/All-In-One-Dress-Set.jpg",
+          "Image": "../images/product-images/Clothing Sets/All-In-One-Dress-Set.jpg",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 2,
           "Title": "4 Set Men's Shirts",
-          "Image": "../../images/product-images/Clothing Sets/4-Set-Shirts.jpg",
+          "Image": "../images/product-images/Clothing Sets/4-Set-Shirts.jpg",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 3,
           "Title": "Casual Men Wear Set",
-          "Image": "../../images/product-images/Clothing Sets/Casual Wear Set.jpg",
+          "Image": "../images/product-images/Clothing Sets/Casual Wear Set.jpg",
           "Description": "Desc",
           "Price": "$1"
         },
         {
           "id": 4,
           "Title": "Hed2321y",
-          "Image": "../../images/product-images/Clothing Sets/Women's Fashionable Set.jpg",
+          "Image": "../images/product-images/Clothing Sets/Women's Fashionable Set.jpg",
           "Description": "Desc",
           "Price": "$1"
         }
